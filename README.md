@@ -28,7 +28,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Credits
 
-This app was created by [Your Name]. Special thanks to the following resources:
+This app was created by Hamna. Special thanks to the following resources:
 
 - [Normalize.css](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css)
 
