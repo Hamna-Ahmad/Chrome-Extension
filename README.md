@@ -1,21 +1,37 @@
-# coc8640b4ab7ea074c56f6bdc
+# MyLeads App
 
-Quick start:
+The MyLeads app is a simple web application that allows users to save and manage website links for future reference. Users can add links manually or save the current tab URL with a single click.
 
-```
-$ npm install
-$ npm start
-````
+## Technologies Used
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- HTML
+- CSS
+- JavaScript
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Setup
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+1. Clone the repository.
+2. Open the `index.html` file in a web browser.
+3. Start using the MyLeads app to save and manage your links!
 
-Happy Coding!
+## Features
+
+- Manual link input: Users can manually enter website links and save them.
+- Tab saving: Users can save the URL of the currently active tab with one click.
+- Link list: The app displays a list of saved links.
+- Link deletion: Users can delete individual links or clear all saved links at once.
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please submit a pull request or open an issue in the GitHub repository.
+
+## Credits
+
+This app was created by [Your Name]. Special thanks to the following resources:
+
+- [Normalize.css](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
